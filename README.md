@@ -1,4 +1,5 @@
 # Coomer Downloader （由AI编写）
+https://greasyfork.org/zh-CN/scripts/570271-coomer-downloader
 English/Japanese Below
 
 AIcoding练习产物 不会更新
